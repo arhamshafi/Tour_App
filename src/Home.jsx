@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Navbar from './Navbar'
-import Header from './header'
+import Header from './Header'
 import Sec_1 from './sec_1'
 import Sec_2 from './Sec_2'
 import Sec_3 from './Sec_3'
